@@ -1,0 +1,13 @@
+.bodyIndex {
+    background-image: url(/assets/bg.jpg);
+}
+
+.bodyCompras {
+    background-image: url(/assets/bgCompras.jpg);
+    background-size: cover;
+}
+
+.bodyTareas {
+    background-image: url(/assets/bgTareas.jpg);
+    background-size: cover;
+}
